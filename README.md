@@ -1,2 +1,1 @@
-# glowing-spork
-Telegram Chat Bot Deploy To AWS Using Terraform &amp; Actions
+[![Node.js CI](https://github.com/openthisworld/glowing-spork/actions/workflows/nodejs.yml/badge.svg)](https://github.com/openthisworld/glowing-spork/actions/workflows/nodejs.yml)
